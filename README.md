@@ -26,9 +26,9 @@ An enthusiastic student software developer. At the moment, I'm learning to devel
 
 ## Certifications 🧑‍🎓
 
-- [Business Engineer]: [Universidad Santo Tomas - Chile](https://www.santotomas.cl/) - 2015.
-- [Passive Fire Technician]: [Competenz - New Zealand](https://www.competenz.org.nz/) - In Progress.
-- [Full Stack Developer]: [[Universidad del Desarrollo](https://github.com/UDDBootcamp) - In Progress.
+- Business Engineer: [Universidad Santo Tomas - Chile](https://www.santotomas.cl/) - 2015.
+- Passive Fire Technician: [Competenz - New Zealand](https://www.competenz.org.nz/) - In Progress.
+- Full Stack Developer: [Universidad del Desarrollo](https://github.com/UDDBootcamp) - In Progress.
 
 
 ## Languages 🔈
