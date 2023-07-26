@@ -33,9 +33,9 @@ An enthusiastic student software developer. At the moment, I'm learning to devel
 
 ## Languages 🔈
 
-- [Spanish]: Native.
-- [English]: Intermediate B2 Level.
-- [Portuguese]: Intermediate Level.
-- [New Zealand Sign Languaje]: Beginner Level.
+- Spanish: Native.
+- English: Intermediate B2 Level.
+- Portuguese: Intermediate Level.
+- New Zealand Sign Languaje: Beginner Level.
 
 🥳🥳 !!Thank you for visiting my profile! I hope you find my work interesting and I'll be happy to connect you and collaborate together on future projects¡¡ 🥳🥳
