@@ -19,9 +19,9 @@ An enthusiastic student software developer. At the moment, I'm learning to devel
 
 ## Projects 👨‍💼
 
-- [git@github.com:Manumunozco/Oli-Boards.git]: Static page developed with Html5 and CSS.
-- [git@github.com:Manumunozco/AIR-UDD.git]: This project created based on JavaScript, also using HTML5 and CSS.
-- [git@github.com:Manumunozco/PROJECT3-DASHBOARD.git]: We consume APIS, using JavaScript, CSS, Html5, Node.Js and chart.js.
+- https://github.com/Manumunozco/Oli-Boards: Static page developed with Html5 and CSS.
+- https://github.com/Manumunozco/AIR-UDD: This project created based on JavaScript, also using HTML5 and CSS.
+- https://github.com/Manumunozco/PROJECT3-DASHBOARD: We consume APIS, using JavaScript, CSS, Html5, Node.Js and chart.js.
 
 
 ## Certifications 🧑‍🎓
