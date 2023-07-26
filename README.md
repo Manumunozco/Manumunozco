@@ -11,27 +11,27 @@ An enthusiastic student software developer. At the moment, I'm learning to devel
 - 🌱 I am learning different languaje as a [Html5], [CSS], [JavaScript], [ETC].
 - 📫 You can contact me through [munozc.manuel@gmail.com]- [https://github.com/Manumunozco] [https://www.linkedin.com/in/manuel-munoz-c/]
 
-## Mis habilidades
+## My abilities 🧠
 
 - ☎️ Communication: Teamwork and communicate effectively with colleagues and clients.
 - ⏩ Adaptive: I have the ability to quickly learn and adapt to new situations and technologies.
 - 🔥 Problem solving: Ability to analyze problems, propose creative solutions and make informed decisions.
 
-## Projects
+## Projects 👨‍💼
 
 - [git@github.com:Manumunozco/Oli-Boards.git]: Static page developed with Html5 and CSS.
 - [git@github.com:Manumunozco/AIR-UDD.git]: This project created based on JavaScript, also using HTML5 and CSS.
 - [git@github.com:Manumunozco/PROJECT3-DASHBOARD.git]: We consume APIS, using JavaScript, CSS, Html5, Node.Js and chart.js.
 
 
-## Certificaciones
+## Certifications 🧑‍🎓
 
 - [Business Engineer]: [Universidad Santo Tomas - Chile](https://www.santotomas.cl/) - 2015.
 - [Passive Fire Technician]: [Competenz - New Zealand](https://www.competenz.org.nz/) - In Progress.
 - [Full Stack Developer]: [[Universidad del Desarrollo](https://github.com/UDDBootcamp) - In Progress.
 
 
-## Idiomas
+## Languages 🔈
 
 - [Spanish]: Native.
 - [English]: Intermediate B2 Level.
