@@ -1,4 +1,4 @@
-# ¡Welcome I am Manuel Munoz Conejeros! 😀😀😀
+# ¡Welcome! I am Manuel Munoz Conejeros 😀😀😀
 
 An enthusiastic student software developer. At the moment, I'm learning to develop with [Universidad del Desarrollo](https://github.com/UDDBootcamp). I am preparing to be able to work as a Full Stack developer, where so far we have learned to develop with different languages such as; HTML5, CSS, Git, GitHub, JavaScript, Nodejs, React, among other functions.
 
