@@ -5,7 +5,7 @@ An enthusiastic student software developer. At the moment, I'm learning to devel
 ## About Myself 💪
 
 - 👨‍🎓 Graduate Business Engineer from [Universidad Santo Tomas - Chile](https://www.santotomas.cl/).
-- 👷‍♂️ I am currently working in the construction area in 🇳🇿 New Zealand (I know, it is not my field.), we decided to emigrate and face new challenges.
+- 👷‍♂️ I am currently working in the construction area in New Zealand (I know, it is not my field.), we decided to emigrate and face new challenges.
 - 👨‍🎓 I managed to qualify as a Passive Fire Technician at level 4, where I currently work.
 - 👨‍🎓 As I am a person who likes challenges, now I embarked on the world of programming, where up to now I am passionate and more and more captivated.
 - 🌱 I am learning different languaje as a Html5, CSS, JavaScript, ETC.
